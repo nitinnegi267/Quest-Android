@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/container_activity_one"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+</FrameLayout>
+
+
+<!--    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"-->
+<!--        android:layout_width="match_parent"-->
+<!--        android:layout_height="wrap_content"-->
+<!--        android:id="@+id/container_activity_one"-->
+<!--        android:layout_marginStart="30dp"-->
+<!--        android:layout_marginTop="40dp"-->
+<!--        android:layout_marginEnd="20dp"-->
+<!--        android:padding="40dp"-->
+<!--        android:orientation="vertical">-->
+
+<!--        <TextView-->
+<!--            android:layout_width="wrap_content"-->
+<!--            android:layout_height="wrap_content"-->
+<!--            android:text="I am Activity 1"-->
+<!--            android:textSize="60dp" />-->
+
+<!--        <Button-->
+<!--            android:id="@+id/activity_one_button1"-->
+<!--            android:layout_width="wrap_content"-->
+<!--            android:layout_height="wrap_content"-->
+<!--            android:layout_marginTop="40dp"-->
+<!--            android:text="Click me will take you to Activity Two"-->
+<!--            android:textSize="30dp" />-->
+
+<!--        <Button-->
+<!--            android:id="@+id/launch_fragment_button2"-->
+<!--            android:layout_width="wrap_content"-->
+<!--            android:layout_height="wrap_content"-->
+<!--            android:layout_marginTop="40dp"-->
+<!--            android:text="Click me to launch Fragment One"-->
+<!--            android:textSize="30dp" />-->
+
+<!--    <Button-->
+<!--        android:id="@+id/activity_one_button2"-->
+<!--        android:layout_width="wrap_content"-->
+<!--        android:layout_height="wrap_content"-->
+<!--        android:layout_marginTop="20dp"-->
+<!--        android:text="@string/launch_activity_two"-->
+<!--        android:textSize="30sp" />-->
+
+<!--    </LinearLayout>-->
+
+

@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My Application</string>
+
+    <string name="launch_activity_two">Click me will also take you to Activity Two</string>
+</resources>
